@@ -1,1 +1,3 @@
 Creating another file to learn pull command
+
+a new line to check merge conflicts
